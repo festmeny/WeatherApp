@@ -1,0 +1,15 @@
+# Intellij project files
+*.ipr
+*.iws
+*.iml
+.idea/
+
+#Gradle
+.gradletasknamecache
+.gradle/
+target/
+build/
+bin/
+
+#MACOS
+.DS_Store
